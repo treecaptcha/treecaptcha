@@ -2,7 +2,7 @@
 discord: axolotl_bucket#3657
 
 <a href="https://discord.gg/r6Fj7MWt2x">
-         <img alt="ICE Craft Discord" src="https://discord.com/api/guilds/753805423110258768/widget.png">
+         <img alt="ICE Craft Discord" src="https://discord.com/api/guilds/753805423110258768/widget.png?style=banner2">
 </a>
 <!---
 treecaptcha/treecaptcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
